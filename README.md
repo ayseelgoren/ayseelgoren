@@ -6,6 +6,9 @@
 
 - 📫 How to reach me **ayseelgoren@gmail.com**
 
+![GitHub Views](https://komarev.com/ghpvc/?username=ayseelgoren)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayşe-elgören" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="ayşe-elgören" height="100" width="120" /></a>
