@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ayseelgoren@gmail.com**
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ayseelgoren)
+![GitHub Views](https://komarev.com/ghpvc/?username=ayseelgoren&color=FAC151)
 
 
 <h3 align="left">Connect with me:</h3>
